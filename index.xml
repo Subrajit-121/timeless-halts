@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gandu</title>
-    <link>http://localhost:49942/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Gandu</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49942/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aami Gandu</title>
-      <link>http://localhost:49942/posts/echoes-through-the-hills/</link>
+      <link>http://localhost:1313/posts/echoes-through-the-hills/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49942/posts/echoes-through-the-hills/</guid>
+      <guid>http://localhost:1313/posts/echoes-through-the-hills/</guid>
       <description>&lt;h1 id=&#34;aami-gandu&#34;&gt;Aami Gandu&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Aami Gandu&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:49942/images/aami-gandu.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Aami Gandu&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/aami-gandu.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Sometimes, we look back and laugh at the raw, awkward, or painfully honest versions of ourselves. “Aami Gandu” isn’t just a punchline—it&amp;rsquo;s a confession, a warm grin at our younger foolish selves, drenched in vulnerability and wild dreams.&lt;/p&gt;
 &lt;p&gt;Maybe this post will be a fragment of memory. Or maybe a whisper to someone who never really left.&lt;/p&gt;</description>
     </item>
