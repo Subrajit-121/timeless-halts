@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "Timeless Halts"
+title = "Gandu"
 theme = "PaperMod"
 
 [taxonomies]
@@ -15,4 +15,4 @@ defaultTheme = "light"
 
 [params.homeInfoParams]
 Title = "Welcome to Timeless Halts"
-Content = "Personal stories, railway memories, and thoughtful journeys — all coming to a gentle halt here."
+Content = "New Blog"
