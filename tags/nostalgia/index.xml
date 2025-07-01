@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MG Line on Timeless Halts</title>
-    <link>http://localhost:1313/tags/mg-line/</link>
-    <description>Recent content in MG Line on Timeless Halts</description>
+    <title>Nostalgia on Timeless Halts</title>
+    <link>http://localhost:1313/tags/nostalgia/</link>
+    <description>Recent content in Nostalgia on Timeless Halts</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mg-line/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aami Gandu</title>
       <link>http://localhost:1313/posts/echoes-through-the-hills/</link>

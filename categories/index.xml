@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Railway Memories</title>
-      <link>http://localhost:1313/categories/railway-memories/</link>
+      <title>Emotions</title>
+      <link>http://localhost:1313/categories/emotions/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/railway-memories/</guid>
+      <guid>http://localhost:1313/categories/emotions/</guid>
       <description></description>
     </item>
   </channel>
